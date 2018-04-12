@@ -9,6 +9,8 @@ Commit back into GIT or upload (remember to enter comment what were changed)
 Please open "matrix.csv" and make changes. 
 Commit back into GIT or upload (remember to enter changed comment)
 
+python3 csv2plist.py car.csv
+python3 csv2plist.py matrix.csv
 
 # PUSH CHANGES TO LIVE VERSION
 Request for combine changes to PLIST and publish. 
